@@ -7,5 +7,5 @@
 ❌ No more paperwork or transferring dozens of documents. Mortgages demystified.
 
 💞️ We're looking for a technical co-founder to come and work with us to make this mission a reality.
-]
-📫 If you're interested in finding out more, or becoming a part of our journey, you can contact us on hello@aemo.io
+
+📫 If you're interested in finding out more, or becoming a part of our journey, contact us on hello@aemo.io
